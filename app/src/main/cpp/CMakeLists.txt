@@ -2,7 +2,7 @@
 # documentation: https://d.android.com/studio/projects/add-native-code.html
 
 # Set the minimum required version of CMake
-cmake_minimum_required(VERSION 3.22.1)
+cmake_minimum_required(VERSION 4.1.2)
 
 # Set standards for C and C++
 set(CMAKE_C_STANDARD 99)
